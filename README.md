@@ -8,10 +8,6 @@
 Martinusxxx/Martinusxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-pkg install python2
+cd Sensei
 
-pip2 install tqdm
-
-pip2 install requests
-
-pip2 install mechanize
+python2 main.py
